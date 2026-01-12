@@ -1,5 +1,5 @@
 # Comments Remover
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Version](https://img.shields.io/badge/version-1.0.1-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-VS%20Code%20%26%20Anti%20Gravity-informational)
 
@@ -29,7 +29,7 @@ Built with a safety-first approach, this extension is ideal for production clean
 ---
 
 ## Installation From VSIX (Manual)
-1. Download the `.vsix` file or click here <a href="https://github.com/wafarifki/comments-remover/raw/refs/heads/main/comments-remover-1.0.0.vsix" target="_blank">comments-remover-1.0.0.vsix</a>
+1. Download the `.vsix` file from release page **<a href="https://github.com/wafarifki/comments-remover/releases/" target="_blank">here</a>**
 2. Open VS Code or Anti Gravity
 3. Go to Extensions → `...` → **Install from VSIX**
 4. Select the file and click install
