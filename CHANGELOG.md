@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.0.1] - 2026-01-13
+
+### Added
+- Support for removing CSS comments inside `<style>` tags in HTML files
+- Support for removing JavaScript comments inside `<script>` tags in HTML files
+
+### Improved
+- More consistent empty line handling after comment removal
+- Better behavior when processing mixed HTML, CSS, and JavaScript content
+
+### Notes
+- This update improves comment removal accuracy for embedded CSS and JavaScript in HTML files
+- No changes to existing command or usage
+
+---
+
 ## [1.0.0] - Initial Release
 
 ### Added
