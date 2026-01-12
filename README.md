@@ -7,6 +7,8 @@
 
 Built with a safety-first approach, this extension is ideal for production cleanup and legacy project refactoring.
 
+![Comments Remover Preview](https://raw.githubusercontent.com/wafarifki/comments-remover/refs/heads/main/preview.gif)
+
 ---
 
 ## Features
